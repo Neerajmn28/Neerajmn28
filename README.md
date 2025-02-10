@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Neeraj Mn</h1>
+<h1 align="center">Hi 👋, I'm Neeraj Mn,
+A passionate Data Enthusiast </h1>
+
 <h3 align="center">Data exploration in motion</h3>
 
 
